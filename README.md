@@ -7,12 +7,19 @@ The aim of this repository, and the application within, is to clean up and refac
 -What We've Done So Far-
 
 To current date, as of 8/1/2020, optimization has been as followed:
+
 Commenting both HTML and CSS for ease of access. 
+
 Consolidation of duplicate classes.
+
 Image elements given relevant alt attributes.
+
 Semantic HTML added.
+
 Added Title element "Horiseon - Homepage"
+
 Properly positioned and styled HTML elements logcially.
+
 
 
 -Link to live website-
